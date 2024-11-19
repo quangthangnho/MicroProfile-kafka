@@ -1,0 +1,1 @@
+mvn liberty:package -Dinclude=runnable
